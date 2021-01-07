@@ -1,0 +1,10 @@
+stringtie -p 8 -G /media/ibm_disk/work/database/Gencode.vM1/gencode.vM1.annotation.gtf -f 0.05 -a 3 -M 0.25 -o ./1.stringtie/SuMix-56-2/SuMix-56-2.gtf ./0.data/SuMix-56-2.uniq.sort.bam
+stringtie -p 8 -G /media/ibm_disk/work/database/Gencode.vM1/gencode.vM1.annotation.gtf -f 0.05 -a 3 -M 0.25 -o ./1.stringtie/SuMix-56-3/SuMix-56-3.gtf ./0.data/SuMix-56-3.uniq.sort.bam
+stringtie -p 8 -G /media/ibm_disk/work/database/Gencode.vM1/gencode.vM1.annotation.gtf -f 0.05 -a 3 -M 0.25 -o ./1.stringtie/SuMix-56-4/SuMix-56-4.gtf ./0.data/SuMix-56-4.uniq.sort.bam
+stringtie -p 8 -G /media/ibm_disk/work/database/Gencode.vM1/gencode.vM1.annotation.gtf -f 0.05 -a 3 -M 0.25 -o ./1.stringtie/SuMix-56-5/SuMix-56-5.gtf ./0.data/SuMix-56-5.uniq.sort.bam
+stringtie -p 8 -G /media/ibm_disk/work/database/Gencode.vM1/gencode.vM1.annotation.gtf -f 0.05 -a 3 -M 0.25 -o ./1.stringtie/SuMix-56-6/SuMix-56-6.gtf ./0.data/SuMix-56-6.uniq.sort.bam
+stringtie -p 8 -G /media/ibm_disk/work/database/Gencode.vM1/gencode.vM1.annotation.gtf -f 0.05 -a 3 -M 0.25 -o ./1.stringtie/SuMix-7-1/SuMix-7-1.gtf ./0.data/SuMix-7-1.uniq.sort.bam
+stringtie -p 8 -G /media/ibm_disk/work/database/Gencode.vM1/gencode.vM1.annotation.gtf -f 0.05 -a 3 -M 0.25 -o ./1.stringtie/SuMix-7-2/SuMix-7-2.gtf ./0.data/SuMix-7-2.uniq.sort.bam
+stringtie -p 8 -G /media/ibm_disk/work/database/Gencode.vM1/gencode.vM1.annotation.gtf -f 0.05 -a 3 -M 0.25 -o ./1.stringtie/SuMix-7-5/SuMix-7-5.gtf ./0.data/SuMix-7-5.uniq.sort.bam
+stringtie -p 8 -G /media/ibm_disk/work/database/Gencode.vM1/gencode.vM1.annotation.gtf -f 0.05 -a 3 -M 0.25 -o ./1.stringtie/SuMix-8-2/SuMix-8-2.gtf ./0.data/SuMix-8-2.uniq.sort.bam
+stringtie -p 8 -G /media/ibm_disk/work/database/Gencode.vM1/gencode.vM1.annotation.gtf -f 0.05 -a 3 -M 0.25 -o ./1.stringtie/SuMix-8-4/SuMix-8-4.gtf ./0.data/SuMix-8-4.uniq.sort.bam
